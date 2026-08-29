@@ -12,7 +12,7 @@ Script de batch para Windows que detecta automáticamente la instalación de Ste
 
 ## Uso
 
-1. Ejecuta el script `hola.bat` 
+1. Ejecuta el script 
 2. El script detectará automáticamente tu instalación de Steam
 3. Los mods se copiarán a `%USERPROFILE%\Zomboid\mods` 
 
